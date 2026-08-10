@@ -1,101 +1,68 @@
-    ALPHA VAULT
+# ALPHA VAULT
 
-  Fitness & Wellness Gym
+## Overview
 
-Alpha Vault is a fitness and wellness gym website designed to provide
-visitors with information about the gym, its services, fitness programs,
-and contact details.
+Alpha Vault is a modern fitness and wellness gym website designed to help people improve their fitness, strength, and overall wellness.It provides information about the gym, its services, facilities, trainers, membership options, and contact information.
 
-The website allows visitors to explore different fitness services and
-submit their personal information, fitness goals, and messages through
-a contact form.
+## Problem Statement
 
- *Website Features
+- Finding clear information about gym services can be difficult.
+- Potential members need an easy way to learn about fitness programs. 
+- Visitors need a simple way to contact the gym.
 
-- Home page
+## Solution
+
+Alpha Vault provides a simple and user-friendly website where visitors can:
+
+- Learn about Alpha Vault.
+- Explore fitness services.
+- Learn about certified trainers.
+- View available membership options.
+- Contact the gym.
+- Submit their fitness goals.
+
+## Features
+
+- Home section
 - About section
 - Services section
 - Contact section
-- Hero section
-- Group fitness classes
-- Personal training
-- Nutrition counselling
+- Navigation menu
+- Clickable links
 - Contact form
 - Fitness goal selection
-- Footer navigation
+- Fitness images
+- Responsive design
 
-  *Our Services
+## File Structure
 
-  (a)Personal Training
+- home
+- about
+- services
+- contact
 
-One-on-one training sessions designed to help members achieve their
-individual fitness goals with guidance from certified trainers.
+## Installation and setup process
+1. clone the repository.
+```
+https://github.com/markkinus/ALPHA_VAULT.git
+```
+2. open the project folder in VS Code.
+3. Open `index.html` in a web browser to view the website
+## How to contribute and collaborate
+Contributions and improvements to Alpha Vault are welcome. Contributions can follow these steps:
 
-  (b)Group Fitness Classes
+* [visit alpha vault website]
+(https://markkinus.github.io/ALPHA_VAULT/
+)
+* Fork the repository.
+* Create a new branch for your changes.
+* Make your changes to the project.
+* Commit your changes with a clear message.
+* Push your branch to GitHub.
+* Create a Pull Request.
+* Review and discuss the changes with other contributors.
+* Merge the Pull Request after approval.
 
-Energetic group workout sessions that provide motivation, teamwork, and
-an enjoyable fitness experience.
- 
-  (c)Nutrition Counselling
-
-Professional nutrition guidance to help members develop healthy eating
-habits and support their fitness goals.
-
-  *Contact Form
-
-The contact form allows visitors to enter:
-
-- First name
-- Last name
-- Email address
-- Phone number
-- Fitness goal
-- Message
-
-  *Fitness Goals
-
-Visitors can select from the following fitness goals:
-
-- Lose weight
-- Build muscle
-- Improve athletic performance
-- Enhance overall health
-- Maintain overall wellness
-- Other
-
-  *Technologies Used
-
-- HTML5
-- Git
-- GitHub
-- GitHub Pages
-
-  *HTML Elements Used
-
-The website makes use of several HTML elements, including:
-
-- Headings
-- Paragraphs
-- Links
-- Images
-- Forms
-- Labels
-- Text inputs
-- Email inputs
-- Telephone inputs
-- Select and option elements
-- Textarea
-- Buttons
-- Navigation
-- Lists
-- Sections
-- Footer
-
-  *Website Navigation
-
-The footer provides navigation links to:
-
-- Home
-- About
-- Services
-- Contact
+## License
+This project is licensed under the [MIT license]
+(LICENSE)
